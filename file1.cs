@@ -4,6 +4,8 @@ class Program {
         var z = "master blaster";
         var q = "is the man";
 
+        var conflicFromStcl = "Remotely Pushed";
+
         var conflict_from_df5 = "locally committed";
     }
 }
