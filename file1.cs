@@ -9,6 +9,6 @@ class Program {
     }
 
     public string Version() {
-        return "1.0";
+        return "1.1";
     }
 }
