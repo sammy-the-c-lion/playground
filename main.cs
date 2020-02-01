@@ -8,7 +8,7 @@ class Program {
         var conflict_from_df5 = "locally committed";
     }
 
-    public string Version() {
-        return "1.2 From stsl";
+    public string Description() {
+        return "Code from stcl. ";
     }
 }
